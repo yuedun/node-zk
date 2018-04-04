@@ -1,0 +1,22 @@
+{
+  "name": "zookeeper-test",
+  "version": "1.0.0",
+  "description": "zookeeper测试项目",
+  "main": "zk-test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuedun/node-zk.git"
+  },
+  "author": "yuedun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuedun/node-zk/issues"
+  },
+  "homepage": "https://github.com/yuedun/node-zk#readme",
+  "dependencies": {
+    "zookeeper": "^3.4.9-3"
+  }
+}
